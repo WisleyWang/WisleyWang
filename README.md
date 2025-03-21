@@ -8,7 +8,7 @@
 - 🏅2019 全国生物医学工程大赛   全国一等奖 
 - 🏅2020 年中国高校计算机大赛·华为云大数据挑战赛  一等奖
 - 🥉 2020 年全球人工智能大赛 医疗文本诊断  三等奖
-- 🥈2021 年中国高校计算机大赛· 微信大数据挑战赛 亚军
+- 🥈2021 年中国高校计算机大赛· 微信大数据挑战赛 二等奖
 - 🏅2021 年山东省第三届数据应用创新创业大赛(心电智能)   冠军
 - 🥈2021 Kaggle- Google Brain - Ventilator Pressure Prediction 银牌
 - 🥈2023 Kaggle-AMP®-Parkinson's Disease Progression Prediction 银牌
